@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uGuide_Server", "uGuide_Server.vcxproj", "{CFFEE6DC-FF04-496C-B56B-73FBB17DF4A6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "uGuide_SearchEngine", "..\uGuide_SearchEngine\uGuide_SearchEngine.vcxproj", "{FFEEA16A-F548-4437-B8DA-8621D5A30B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFFEE6DC-FF04-496C-B56B-73FBB17DF4A6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFFEE6DC-FF04-496C-B56B-73FBB17DF4A6}.Debug|Win32.Build.0 = Debug|Win32
+		{CFFEE6DC-FF04-496C-B56B-73FBB17DF4A6}.Release|Win32.ActiveCfg = Release|Win32
+		{CFFEE6DC-FF04-496C-B56B-73FBB17DF4A6}.Release|Win32.Build.0 = Release|Win32
+		{FFEEA16A-F548-4437-B8DA-8621D5A30B0E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FFEEA16A-F548-4437-B8DA-8621D5A30B0E}.Debug|Win32.Build.0 = Debug|Win32
+		{FFEEA16A-F548-4437-B8DA-8621D5A30B0E}.Release|Win32.ActiveCfg = Release|Win32
+		{FFEEA16A-F548-4437-B8DA-8621D5A30B0E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
